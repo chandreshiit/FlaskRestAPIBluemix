@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ckm-demo
+   random-route: false
+   memory: 128M
